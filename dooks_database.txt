@@ -1,10 +1,1 @@
-1.Title: The Alchemist | Author: Paulo Coelho | Year: 1988 | Genre: Fiction | Description: A young shepherd travels from Spain to Egypt in search of treasure and discovers the meaning of life. | Rating: 4.7
-2.Title: Atomic Habits | Author: James Clear | Year: 2018 | Genre: Self-Help | Description: A practical guide to building good habits and breaking bad ones through small daily changes. | Rating: 4.8
-3.Title: Rich Dad Poor Dad | Author: Robert Kiyosaki | Year: 1997 | Genre: Finance | Description: A story about two fathers with different views on money and how to achieve financial independence. | Rating: 4.6
-4.Title: Think and Grow Rich | Author: Napoleon Hill | Year: 1937 | Genre: Self-Help | Description: A classic book about the mindset and habits needed to achieve success and wealth. | Rating: 4.6
-5.Title: 1984 | Author: George Orwell | Year: 1949 | Genre: Dystopian | Description: A dark story about a totalitarian society where the government controls every aspect of life. | Rating: 4.7
-6.Title: The 7 Habits of Highly Effective People | Author: Stephen Covey | Year: 1989 | Genre: Self-Help | Description: Seven principles to help people become more effective in their personal and professional lives. | Rating: 4.5
-7.Title: Sapiens | Author: Yuval Noah Harari | Year: 2011 | Genre: History | Description: A brief history of humankind from the Stone Age to the modern era. | Rating: 4.7
-8.Title: The Power of Now | Author: Eckhart Tolle | Year: 1997 | Genre: Spirituality | Description: A guide to spiritual enlightenment through living in the present moment. | Rating: 4.5
-9.Title: Deep Work | Author: Cal Newport | Year: 2016 | Genre: Productivity | Description: How to focus deeply on difficult tasks in a world full of distractions. | Rating: 4.6
-10.Title: The 48 Laws of Power | Author: Robert Greene | Year: 1998 | Genre: Psychology | Description: Forty-eight laws based on historical examples about how power works in human relationships. | Rating: 4.4
+
